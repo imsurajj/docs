@@ -60,6 +60,7 @@
 
     {
       "group": "Components",
+      "icon": "building",
       "pages": [
         "Accordian",
         "Alert",
